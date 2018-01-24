@@ -1,4 +1,5 @@
 
+## Authors: Ruchi Neema Gupta, Snehal Vartak
 # Install library packages - e1071, ggplot2, reshape2, randomForest, rpart, rattle
 
 library(e1071)  # for implementing Naives Bayes classifier
